@@ -1,8 +1,9 @@
 ## Olá, eu sou a Gabriel Oliveira, Desenvolvedor Front End, UI/UX Designer, apaixonado por tecnologia e aprimoramento das habilidades.
 São Paulo - Brasil
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Dev Front End em Formação. Com habilidades em implementação de interfaces front-end. Estudante de Análise e Desenvolvimento de Sistemas e ávido por conhecimento. Sendo um auto-ditada de grande maioria das linguagens de programação das quais pode dizer-te proficiente: HTML, CSS, JavaScript e React. Onde desenvolveu projetos e prestou serviço de freelancer para empresas (veja todas no meu portifólio). Sua formação multi-disciplinar com aplicações em grupos de pesquisa, o torna uma pessoa apta a trabalhar com equipes de multi-especialistas de forma fluida objetivando o melhor desempenho enquanto conjunto. 
+
+Sou um constante aprendiz, fascinado em contribuir para o desenvolvimento de processos, automatizações, adquirir e compartilhar conhecimentos de forma justa e ética. Estou dedicado a investir e contribuir no crescimento de processos, operando com integridade e aproveitando a jornada!
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
