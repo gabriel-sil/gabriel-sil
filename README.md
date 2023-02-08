@@ -1,7 +1,9 @@
 ## Olá, eu sou a Gabriel Oliveira, Desenvolvedor Front End, UI/UX Designer, apaixonado por tecnologia e aprimoramento das habilidades.
 São Paulo - Brasil
 
-Dev Front End em Formação. Com habilidades em implementação de interfaces front-end. Estudante de Análise e Desenvolvimento de Sistemas e ávido por conhecimento. Sendo um auto-ditada de grande maioria das linguagens de programação das quais pode dizer-te proficiente: HTML, CSS, JavaScript e React. Onde desenvolveu projetos e prestou serviço de freelancer para empresas (veja todas no meu portifólio). Sua formação multi-disciplinar com aplicações em grupos de pesquisa, o torna uma pessoa apta a trabalhar com equipes de multi-especialistas de forma fluida objetivando o melhor desempenho enquanto conjunto. 
+Dev Front End em Formação. Com habilidades em implementação de interfaces front-end. Sendo um auto-ditada de grande maioria das linguagens de programação das quais pode dizer-te proficiente: HTML, CSS, JavaScript e React. Onde desenvolveu projetos e prestou serviço de freelancer para empresas (veja todas no meu portifólio). Sua formação multi-disciplinar com aplicações em grupos de pesquisa, o torna uma pessoa apta a trabalhar com equipes de multi-especialistas de forma fluida objetivando o melhor desempenho enquanto conjunto. 
+
+Possui curso de desenvolvimento/programação de Front End e back end RocketSeat (em andamento), Origamid me fez se destacar em grandes projetos. e atualmente estudante Analise e Desenvolvimento de Sistemas pela faculdade Impacta de Tecnologia.
 
 Sou um constante aprendiz, fascinado em contribuir para o desenvolvimento de processos, automatizações, adquirir e compartilhar conhecimentos de forma justa e ética. Estou dedicado a investir e contribuir no crescimento de processos, operando com integridade e aproveitando a jornada!
 
