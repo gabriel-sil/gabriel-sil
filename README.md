@@ -4,8 +4,7 @@ São Paulo - Brasil
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-sil&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sil&layout=compact)](https://github.com/gabriel-sil/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sil)](https://github.com/gabriel-sil/github-readme-stats)
 ## Tecnologias que uso no dia a dia
 <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
