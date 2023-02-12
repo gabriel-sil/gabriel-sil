@@ -1,4 +1,4 @@
-## Olá, eu sou a Gabriel Oliveira
+## Olá, eu sou Gabriel Oliveira
 ### Desenvolvedor Front End, UI/UX Designer, apaixonado por tecnologia e aprimoramento das habilidades.
 São Paulo - Brasil
 ##
